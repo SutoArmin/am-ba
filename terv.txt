@@ -1,0 +1,2 @@
+Amőba játék készítése HTML és CSS felhasználásával.
+Készítette: Sütő Ármin
